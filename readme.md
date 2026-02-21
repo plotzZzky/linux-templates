@@ -1,5 +1,6 @@
-## Linux Document Templates
-#### Modelos de documentos para uso no Linux
+## Linux Document Templates 👨‍💻
+#### Modelos de documentos básicos para uso no Linux
+--- 
 
 #### Como Usar
 
