@@ -3,3 +3,8 @@
 
 # IDEs
 .idea/
+
+# Python
+.venv/
+venv/
+

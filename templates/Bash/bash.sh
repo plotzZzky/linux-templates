@@ -2,9 +2,10 @@
 
 
 function example_function() {
-	echo "Example function"
+  msg="Example function"
+	echo "$msg"
 	echo $1
 }
 
 
-example_function "Mesage for test"
+example_function "Test message"

@@ -1,6 +1,6 @@
 
 
-class MyTestApp():
+class MyTestApp:
     def __init__(self):
         self.menu_options = [
             self.exemple_function,

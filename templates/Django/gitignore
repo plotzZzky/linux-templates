@@ -1,0 +1,27 @@
+# IDEs
+.idea/
+
+# Ambiente Virtual
+/venv/
+/.venv/
+
+# Arquivos de migração
+**/migrations/
+
+# Arquivos de Cache do Python
+**/__pycache__/
+
+
+# Arquivos de Migração (exceto o __init__.py)
+!*/migrations/__init__.py
+
+# Arquivos de Mídia
+/media/posts/*
+/media/
+
+# Arquivos Python compilados
+*.pyc
+
+# Arquivos de Inicialização
+*_initial.py
+
