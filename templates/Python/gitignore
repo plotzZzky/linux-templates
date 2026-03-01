@@ -5,7 +5,8 @@
 .idea/
 
 # Ambiente Virtual
-/venv/
+venv/
+.venv/
 
 # Arquivos de migração
 **/migrations/
